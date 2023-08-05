@@ -1,5 +1,7 @@
 X-Men Main Webpage Deployment Script
-This repository contains a bash script to automate the deployment of the X-Men Main Webpage on an Amazon Linux EC2 instance running Apache HTTP server.
+
+This repository contains a bash script to automate the deployment of the X-Men Main Webpage 
+on an Amazon Linux EC2 instance running Apache HTTP server.
 
 Prerequisites
 Before running the script, make sure you have the following:
